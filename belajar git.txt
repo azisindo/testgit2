@@ -10,6 +10,10 @@ git config --list
 git config --global user.name "Awaludin Aziz"
 git config --global user.email "aziz.mcgr@gmail.com"
 
+--melihat perubahan
+git log
+
+
 
 
 
