@@ -1,0 +1,15 @@
+---cek git version
+git --version
+
+git version 2.40.0.windows.1
+
+--cek konfigurasi
+git config --list
+
+-- git configurasi
+git config --global user.name "Awaludin Aziz"
+git config --global user.email "aziz.mcgr@gmail.com"
+
+
+
+
